@@ -54,7 +54,8 @@ section {
   background-color: hsl(0, 0%, 100%);
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   padding: 1.5rem;
-  width: 100%;
+  width: fit-content;
+  min-width: 100%;
   /* width: 400px; */
   border-radius: 0.3rem;
 }
